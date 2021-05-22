@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866923205210",
+    "project_id": "fir-mood",
+    "storage_bucket": "fir-mood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866923205210:android:e4a7234515910ae1bebe63",
+        "android_client_info": {
+          "package_name": "com.example.smileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866923205210-75u5hfjpdf5igsfkp1muqdud11m6k06r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4SkIAjNoJnYICzxN0zyXnfy7iXnSABbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866923205210-75u5hfjpdf5igsfkp1muqdud11m6k06r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
